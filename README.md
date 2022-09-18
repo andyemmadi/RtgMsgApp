@@ -21,4 +21,4 @@ npx react-native run-android
 ```
 
 ### Recording
-<video src="https://github.com/andyemmadi/RtgMsgApp/blob/main/rtg-app-recording.mp4" controls="controls"></video>
+Download reading at https://github.com/andyemmadi/RtgMsgApp/blob/main/rtg-app-recording.mp4
