@@ -21,5 +21,3 @@ npx react-native run-android
 ```
 
 ### Recording
-
-![RTG-APP-Recording](https://github.com/andyemmadi/RtgMsgApp/blob/main/rtg-app-recording.mp4)
