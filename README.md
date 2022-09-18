@@ -1,6 +1,6 @@
 # RoomsToGo Messages App
 
-- Developed the application targeting iOS platforms on React-Native platform.
+- Developed the application using React-Native platform targeting iOS devices.
 
 ### Installation
 
@@ -12,7 +12,6 @@ npm install
 
 ```
 npx react-native run-android
-
 ```
 
 ### Run instructions for iOS
