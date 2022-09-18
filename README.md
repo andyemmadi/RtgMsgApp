@@ -20,5 +20,5 @@ npx react-native run-ios
 npx react-native run-android
 ```
 
-### Recording
-Download reading at https://github.com/andyemmadi/RtgMsgApp/blob/main/rtg-app-recording.mp4
+### Demo Recording
+Download demo recording at https://github.com/andyemmadi/RtgMsgApp/blob/main/rtg-app-recording.mp4
