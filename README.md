@@ -2,20 +2,20 @@
 
 - Developed the application targeting iOS platforms on React-Native platform.
 
-## Installation
+# Installation
 
 ```
 npm install
 ```
 
-## Run instructions for Android
+# Run instructions for Android
 
 ```
 npx react-native run-android
 
 ```
 
-## Run instructions for iOS
+# Run instructions for iOS
 
 ```
 npx react-native run-ios
